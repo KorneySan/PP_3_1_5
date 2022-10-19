@@ -1,0 +1,14 @@
+GET http://localhost:8080/api/
+Accept: application/json
+
+###
+POST http://localhost:8080/api/
+Accept: application/json
+
+###
+PUT http://localhost:8080/api/update
+Accept: application/json
+
+###
+DELETE http://localhost:8080/api/delete/3
+Accept: application/json
